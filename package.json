@@ -1,0 +1,19 @@
+{
+  "name": "com.neodroid.droid",
+  "displayName": "Neodroid",
+  "version": "0.2.0",
+  "unity": "2018.1",
+  "description": "Easy prototyping of reinforcement learning environments.\n\n Components: \n \u25AA Sensors \n \u25AA Actuators \n \u25AA Environments \n \u25AA Managers \n \u25AA Displayers \n \u25AA Configurables \n \u25AA Actors \n \u25AA Internals \n \u25AA Evaluations ",
+  "keywords": [
+    "rl",
+    "unity",
+    "Physics",
+    "RigidBody",
+    "Component"
+  ],
+  "author": "cnheider <mrnaah@gmail.com> (https://github.com/cnheider)",
+  "category": "Unity",
+  "dependencies": {
+    "com.unity.textmeshpro": "1.2.1"
+  }
+}
