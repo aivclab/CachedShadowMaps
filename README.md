@@ -35,11 +35,11 @@ _Cached Shadow Maps was developed for the published first person
     "dependencies": {
       "com.unity.package-manager-ui": "0.0.0-builtin",
       ...
-      "com.cnheider.cachedshadowmaps": "https://github.com/cnheider/cachedshadowmaps.git",
+      "com.aivclab.cachedshadowmaps": "https://github.com/aivclab/cachedshadowmaps.git",
     }
   }
   ````
-  You can use `"com.neodroid.droid": "https://github.com/cnheider/cachedshadowmaps.git#branch"` for a specific
+  You can use `"com.aivclab.cachedshadowmaps": "https://github.com/aivclab/cachedshadowmaps.git#branch"` for a specific
    branch.
 
 ***Or***
