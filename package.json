@@ -1,9 +1,9 @@
 {
-  "name": "com.neodroid.droid",
-  "displayName": "Neodroid",
-  "version": "0.2.0",
+  "name": "com.aivclab.cachedshadowmaps",
+  "displayName": "CachedShadowMaps",
+  "version": "0.0.1",
   "unity": "2018.1",
-  "description": "Easy prototyping of reinforcement learning environments.\n\n Components: \n \u25AA Sensors \n \u25AA Actuators \n \u25AA Environments \n \u25AA Managers \n \u25AA Displayers \n \u25AA Configurables \n \u25AA Actors \n \u25AA Internals \n \u25AA Evaluations ",
+  "description": "Caches and draws the shadows maps of your light sources",
   "keywords": [
     "rl",
     "unity",
