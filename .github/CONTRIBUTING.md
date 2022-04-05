@@ -1,5 +1,4 @@
-# Contributing To The Neodroid Platform
-These guidelines are universal for the entire [Neodroid](https://github.com/sintefneodroid) Platform
+# Contributing
 
 ## Pull Requests
 We welcome pull requests.
@@ -15,5 +14,3 @@ clear and has sufficient instructions to be able to reproduce the issue.
 ## Coding Style
 ...
 
-## License
-By contributing to the [Neodroid](https://github.com/sintefneodroid) platform, you agree that your contributions will be licensed under the LICENSE file in the root directory of this repository.
