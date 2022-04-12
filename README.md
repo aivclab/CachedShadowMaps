@@ -11,7 +11,8 @@ Cached Shadow Maps is a unity package for caching shadow maps on unity's built i
 ---
 
 _Cached Shadow Maps was developed for the published first person
- puzzle game [Lightmatter](https://www.lightmattergame.com/)_, this technology is now released to the public under Apache License 2.0_
+ puzzle game [Lightmatter](https://www.lightmattergame.com/), this technology is now released to the public under Apache License 2.0_
+
 
 ---
 
